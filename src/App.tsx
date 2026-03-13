@@ -2347,6 +2347,7 @@ function Gallery() {
                   alignItems: "center",
                   justifyContent: "center",
                   gap: "1.5rem",
+                  flexWrap: "wrap",
                 }}
               >
                 <motion.span
